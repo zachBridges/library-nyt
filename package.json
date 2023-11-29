@@ -1,0 +1,11 @@
+{
+  "name": "library-nyt",
+  "version": "0.1",
+  "description": "Automate getting logged into NYT via the library",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.8.2"
+  },
+  "type": "module"
+}
